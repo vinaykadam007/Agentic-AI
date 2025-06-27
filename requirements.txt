@@ -4,4 +4,6 @@ langsmith
 python-dotenv
 langchain-groq
 langchain_tavily
+langchain_openai
 requests
+langgraph-cli[inmem]
